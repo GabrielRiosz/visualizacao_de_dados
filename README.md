@@ -38,4 +38,21 @@ Este repositório contém a atividade prática desenvolvida para a disciplina de
 * **Gráfico:** Histograma.
 * **Insight:** A imensa maioria das faixas se concentra rigidamente entre 3 e 4 minutos. Trata-se do "tempo comercial perfeito" do streaming para maximizar repetições (plays) sem entediar o ouvinte.
 
-### 5****
+### 5. Músicas de alta energia/explícitas são mais populares?
+* **Gráfico:** Barras Comparativo.
+* **Insight:** Músicas com maior intensidade ou letras marcantes registram médias de popularidade mais elevadas, indicando forte consumo e engajamento orgânico do público jovem.
+
+### 6. Como se dividem as músicas em relação ao andamento (BPM)?
+* **Gráfico:** Histograma com linha indicativa de média.
+* **Insight:** O andamento médio gira em torno de 120 BPM. Essa frequência simula os batimentos cardíacos humanos em momentos de leve agitação, sendo a pulsação ideal para engajar o corpo em movimentos ritmados.
+
+---
+
+## 🚀 Como Executar o Projeto
+1. Abra o arquivo `Untitled2.ipynb` diretamente aqui pelo GitHub para visualizar a estrutura do código.
+2. Para interagir e rodar o código, faça o upload do arquivo no [Google Colab](https://colab.research.google.com/).
+3. Certifique-se de executar a primeira célula que faz o carregamento correto dos dados hospedados antes de gerar as visualizações.
+
+---
+**Professor:** Msc. Pedro H. Mello Pereira  
+**Instituição:** CEUB
